@@ -3,6 +3,8 @@
 }
 .footer{
   background-color: aqua;
+  height: 100px;
+  text-align: center;
 }
 .main{
   background-color: cadetblue;
